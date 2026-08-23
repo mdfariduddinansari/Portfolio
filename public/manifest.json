@@ -1,0 +1,24 @@
+{
+  "description": "A premium, futuristic animated portfolio for MD Fariduddin Ansari that showcases full-stack expertise through bold typography, immersive interactions, and recruiter-focused visual storytelling.",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#090b10",
+  "icons": [
+    {
+      "type": "image/svg+xml",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMCIgZmlsbD0iIzA5MGIxMCIvPgogIDx0ZXh0IHg9IjI1NiIgeT0iMzIwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjIwIiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjNzNkZGZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5GPC90ZXh0Pgo8L3N2Zz4=",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "type": "image/svg+xml",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMCIgZmlsbD0iIzA5MGIxMCIvPgogIDx0ZXh0IHg9IjI1NiIgeT0iMzIwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjIwIiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjNzNkZGZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5GPC90ZXh0Pgo8L3N2Zz4=",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "background_color": "#090b10",
+  "short_name": "Fariduddin Ansari",
+  "start_url": "/",
+  "name": "MD Fariduddin Ansari — Software Engineer"
+}

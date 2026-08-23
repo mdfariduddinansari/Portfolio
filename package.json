@@ -1,0 +1,23 @@
+{
+  "name": "fariduddin-developer-portfolio",
+  "version": "1.0.0",
+  "description": "A premium, futuristic animated portfolio for MD Fariduddin Ansari that showcases full-stack expertise through bold typography, immersive interactions, and recruiter-focused visual storytelling.",
+  "type": "module",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "lucide-react": "0.577.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "typescript": "^5.9.0",
+    "vite": "^8.0.0"
+  }
+}
