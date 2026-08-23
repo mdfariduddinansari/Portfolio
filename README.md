@@ -1,31 +1,20 @@
-# 👨‍💻 MD Fariduddin Ansari — Portfolio
+# 👨‍💻 MD Fariduddin Ansari — Developer Portfolio
 
 > A modern, interactive developer portfolio showcasing my skills, projects, experience, and passion for building impactful web applications.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-73ddff?style=for-the-badge)](YOUR_VERCEL_URL)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-73ddff?style=for-the-badge)](https://portfolio-six-dusky-94.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-mdfariduddinansari-181717?style=for-the-badge&logo=github)](https://github.com/mdfariduddinansari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fariduddin_Ansari-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-fariduddin-ansari-a481a5326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Fariduddin_Ansari-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-fariduddin-ansari-a481a5326/)
 
 ---
 
 ## 👋 About Me
 
-I'm **MD Fariduddin Ansari**, a software engineer and a developer passionate about building modern, responsive, and user-focused web applications.
+Hi, I'm **MD Fariduddin Ansari**, a software engineer and a developer passionate about building modern, responsive, and user-focused web applications.
 
-I enjoy turning ideas into functional digital experiences — from interactive front-end interfaces to full-stack applications.
+I enjoy turning ideas into functional digital experiences and continuously improving my development skills through hands-on projects and real-world problem solving.
 
-My portfolio highlights my technical skills, projects, experience, and continuous journey as a developer.
-
-### What I focus on
-
-- 🌐 Modern Web Development
-- ⚛️ React & Frontend Development
-- 💻 JavaScript / TypeScript
-- 🎨 Responsive & Interactive UI
-- 🛒 E-commerce Applications
-- 🎵 Interactive Web Experiences
-- 🔧 Problem Solving & Debugging
-- 📚 Continuous Learning
+This portfolio brings together my technical skills, projects, experience, education, and professional journey in one interactive experience.
 
 ---
 
@@ -40,7 +29,7 @@ A full-stack e-commerce project focused on creating a modern shopping experience
 🔗 **GitHub:**  
 https://github.com/mdfariduddinansari/ShopiKart
 
-> 🚧 Live deployment is currently unavailable due to deployment issues. The project is being maintained and will be redeployed.
+> 🚧 The live deployment is currently unavailable due to deployment issues. The project is being maintained and will be redeployed.
 
 ---
 
@@ -60,7 +49,7 @@ https://github.com/mdfariduddinansari/CodeAlpha_MusicPlayer
 
 ## 🛠️ Technical Skills
 
-### Frontend
+### Frontend Development
 
 - HTML5
 - CSS3
@@ -68,84 +57,75 @@ https://github.com/mdfariduddinansari/CodeAlpha_MusicPlayer
 - TypeScript
 - React
 - Responsive Web Design
-- Modern UI Development
+- Interactive UI Development
 
-### Backend & Development
-
-- Node.js
-- REST APIs
-- Git & GitHub
-- Application Debugging
-- Version Control
-
-### Tools & Technologies
+### Development & Tools
 
 - Git
 - GitHub
 - VS Code
 - Vercel
 - GitHub Pages
-- Modern Web Development Tools
+- REST APIs
+- Application Debugging
 
 ---
 
 ## ✨ Portfolio Features
 
-This portfolio was designed to be more than a traditional resume website.
+This portfolio is designed to provide a modern and engaging way to explore my development journey.
 
-### 🎨 Modern Visual Design
+### 🎨 Modern UI
 
-Dark, modern interface with a technology-focused visual identity.
+A dark, modern interface designed with a clean technology-focused visual identity.
 
-### ✨ Smooth Animations
+### ✨ Animations & Interactions
 
-Interactive animations and transitions are used throughout the experience to create a polished and engaging interface.
+Smooth animations, transitions, and interactive elements create a more engaging browsing experience.
 
 ### 📱 Responsive Design
 
-Designed to work across:
+The portfolio is designed to work across:
 
 - 💻 Desktop
 - 💻 Laptop
 - 📱 Mobile
 - 📟 Tablet
 
-### 🧩 Interactive Sections
+### 🧩 Portfolio Sections
 
-The portfolio includes:
+The website includes:
 
-- Hero introduction
-- About section
-- Technical skills
-- Featured projects
-- Professional experience
+- Hero / Introduction
+- About Me
+- Technical Skills
+- Projects
+- Professional Experience
 - Education
-- Contact section
+- Contact
 
 ### 🎯 Recruiter-Friendly
 
-The portfolio is structured to make important information easy to discover, including:
+Important information is organized so recruiters can quickly find:
 
 - Technical skills
 - Projects
+- Live demonstrations
 - GitHub repositories
-- Live project demonstrations
 - Experience
 - Education
+- Resume
 - Contact information
 
 ---
 
 ## 🧰 Built With
 
-This portfolio is built using modern web technologies.
-
 | Technology | Purpose |
 |---|---|
-| React | UI development |
+| React | User interface development |
 | TypeScript | Type-safe development |
 | CSS | Styling, animations & responsive design |
-| Lucide Icons | Interface icons |
 | Vite | Development & build tooling |
 | Git | Version control |
 | GitHub | Source code hosting |
